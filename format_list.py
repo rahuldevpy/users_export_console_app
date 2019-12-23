@@ -1,0 +1,1 @@
+FORMAT_LIST = ["TEXT","PDF"]
